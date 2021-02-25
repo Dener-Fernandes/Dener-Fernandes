@@ -13,9 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hey there
+# Hey there!
 
-My name is Dener Fernandes de Oliveira. I'm a Full-Stack Developer, passionate about web back-end technologies, such as NodeJS.
+My name is Dener Fernandes de Oliveira. 
+
+I'm a Full-Stack Developer, passionate about web back-end technologies, such as NodeJS.
 
 🚀Skills: HTML5, CSS3, Javascript, Bootstrap 4, NodeJS, Python, SQL
 
