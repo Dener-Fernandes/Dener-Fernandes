@@ -21,5 +21,5 @@ My name is Dener Fernandes de Oliveira. I'm a Full-Stack Developer
 
 [![]]
 
-[![ Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dener-fernandes-de-oliveira-0a5bb81b7/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BSgMe6S8WSkW3diWZQK%2Bs%2BA%3D%3D)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dener-fernandes-de-oliveira-0a5bb81b7/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BSgMe6S8WSkW3diWZQK%2Bs%2BA%3D%3D)
 
