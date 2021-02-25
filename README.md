@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 My name is Dener Fernandes de Oliveira. I'm a Full-Stack Developer
 
-🚀Skills: [! [HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]
+🚀Skills: [![ HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]
 
 [![]]
 
