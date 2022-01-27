@@ -6,7 +6,7 @@
   
 <h2>About me</h2>
 <ul>
-  <li>Front-End</li>
+  <li>Front-End Developer</li>
   <li>A student forever</li>
 </ul>
 
