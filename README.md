@@ -1,9 +1,3 @@
-<div>
-  <a href="https://github.com/Dener-Fernandes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dener-Fernandes&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dener-Fernandes&layout=compact&langs_count=7&theme=great-gatsby"/>
-</div>
-  
 <h2>About me</h2>
 <ul>
   <li>Back-End Developer</li>
